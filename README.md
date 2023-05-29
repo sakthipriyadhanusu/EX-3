@@ -17,7 +17,7 @@ To write a python program to perform sliding window protocol.
 ## PROGRAM:
 ## CLIENT:
 ```
-NAME:SAKTHI PRIYA D
+DEVELOPED BY:SAKTHI PRIYA D
 REG NO: 212222040139
 import socket
 s=socket.socket()
